@@ -3,4 +3,4 @@ Manual_MTG_Chakraa:
     accessibility: items
 
 game: Manual_MTG_Chakraa
-name: Player[number]
+name: Player{number}
