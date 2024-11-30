@@ -1,0 +1,112 @@
+[
+  {
+    "count": 1,
+    "name": "Round 1 - Match 1",
+    "category": [
+      "Rounds",
+      "Starter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Round 1 - Match 2",
+    "category": [
+      "Rounds",
+      "Starter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Round 1 - Match 3",
+    "category": [
+      "Rounds",
+      "Starter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Round 1 - Match 4",
+    "category": [
+      "Rounds",
+      "Starter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Round 1 - Match 5",
+    "category": [
+      "Rounds",
+      "Starter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Round 1 - Match 6",
+    "category": [
+      "Rounds",
+      "Starter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quarterfinals - Match 1",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quarterfinals - Match 2",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quarterfinals - Match 3",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quarterfinals - Match 4",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Semifinals - Match 1",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Semifinals - Match 2",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Finals",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  }
+]

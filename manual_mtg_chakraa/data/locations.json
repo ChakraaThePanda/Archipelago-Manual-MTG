@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Round 1 - Match 1 - Item 1",
+    "region": "Round 1 - Match 1",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 1 - Item 2",
+    "region": "Round 1 - Match 1",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 2 - Item 1",
+    "region": "Round 1 - Match 2",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 2 - Item 2",
+    "region": "Round 1 - Match 2",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 3 - Item 1",
+    "region": "Round 1 - Match 3",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 3 - Item 2",
+    "region": "Round 1 - Match 3",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 4 - Item 1",
+    "region": "Round 1 - Match 4",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 4 - Item 2",
+    "region": "Round 1 - Match 4",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 5 - Item 1",
+    "region": "Round 1 - Match 5",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 5 - Item 2",
+    "region": "Round 1 - Match 5",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 6 - Item 1",
+    "region": "Round 1 - Match 6",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 6 - Item 2",
+    "region": "Round 1 - Match 6",
+    "category": [
+      "Round 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 1 - Item 1",
+    "region": "Quarterfinals - Match 1",
+    "category": [
+      "Quarterfinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 1 - Item 2",
+    "region": "Quarterfinals - Match 1",
+    "category": [
+      "Quarterfinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 2 - Item 1",
+    "region": "Quarterfinals - Match 2",
+    "category": [
+      "Quarterfinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 2 - Item 2",
+    "region": "Quarterfinals - Match 2",
+    "category": [
+      "Quarterfinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 3 - Item 1",
+    "region": "Quarterfinals - Match 3",
+    "category": [
+      "Quarterfinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 3 - Item 2",
+    "region": "Quarterfinals - Match 3",
+    "category": [
+      "Quarterfinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 4 - Item 1",
+    "region": "Quarterfinals - Match 4",
+    "category": [
+      "Quarterfinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 4 - Item 2",
+    "region": "Quarterfinals - Match 4",
+    "category": [
+      "Quarterfinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Semifinals - Match 1 - Item 1",
+    "region": "Semifinals - Match 1",
+    "category": [
+      "Semifinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Semifinals - Match 1 - Item 2",
+    "region": "Semifinals - Match 1",
+    "category": [
+      "Semifinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Semifinals - Match 2 - Item 1",
+    "region": "Semifinals - Match 2",
+    "category": [
+      "Semifinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Semifinals - Match 2 - Item 2",
+    "region": "Semifinals - Match 2",
+    "category": [
+      "Semifinals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Finals - Item 1",
+    "region": "Finals",
+    "category": [
+      "Finals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Finals - Item 2",
+    "region": "Finals",
+    "category": [
+      "Finals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Finals - Victory",
+    "victory": true,
+    "region": "Finals",
+    "category": [
+      "Finals"
+    ],
+    "requires": []
+  }
+]

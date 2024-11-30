@@ -1,0 +1,14 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "MTG",
+  "creator": "Chakraa",
+  "filler_item_name": "Untap, Upkeep, Draw",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Starter"
+      ],
+      "random": 1
+    }
+  ]
+}
