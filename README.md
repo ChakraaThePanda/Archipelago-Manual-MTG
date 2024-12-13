@@ -1,4 +1,4 @@
-# Archipelago-Manual-WorldofWarcraft
+# Archipelago-Manual-MTG
  Files required to run the Manual Archipelago for MTG Tournament
 
 ## Unflexibility
