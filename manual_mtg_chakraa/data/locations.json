@@ -3,7 +3,7 @@
     "name": "Round 1 - Match 1 - Item 1",
     "region": "Round 1 - Match 1",
     "category": [
-      "Round 1"
+      "Round 1 - Match 1"
     ],
     "requires": []
   },
@@ -11,7 +11,23 @@
     "name": "Round 1 - Match 1 - Item 2",
     "region": "Round 1 - Match 1",
     "category": [
-      "Round 1"
+      "Round 1 - Match 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 1 - Item 3",
+    "region": "Round 1 - Match 1",
+    "category": [
+      "Round 1 - Match 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 1 - Item 4",
+    "region": "Round 1 - Match 1",
+    "category": [
+      "Round 1 - Match 1"
     ],
     "requires": []
   },
@@ -19,7 +35,7 @@
     "name": "Round 1 - Match 2 - Item 1",
     "region": "Round 1 - Match 2",
     "category": [
-      "Round 1"
+      "Round 1 - Match 2"
     ],
     "requires": []
   },
@@ -27,7 +43,23 @@
     "name": "Round 1 - Match 2 - Item 2",
     "region": "Round 1 - Match 2",
     "category": [
-      "Round 1"
+      "Round 1 - Match 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 2 - Item 3",
+    "region": "Round 1 - Match 2",
+    "category": [
+      "Round 1 - Match 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 2 - Item 4",
+    "region": "Round 1 - Match 2",
+    "category": [
+      "Round 1 - Match 2"
     ],
     "requires": []
   },
@@ -35,7 +67,7 @@
     "name": "Round 1 - Match 3 - Item 1",
     "region": "Round 1 - Match 3",
     "category": [
-      "Round 1"
+      "Round 1 - Match 3"
     ],
     "requires": []
   },
@@ -43,7 +75,23 @@
     "name": "Round 1 - Match 3 - Item 2",
     "region": "Round 1 - Match 3",
     "category": [
-      "Round 1"
+      "Round 1 - Match 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 3 - Item 3",
+    "region": "Round 1 - Match 3",
+    "category": [
+      "Round 1 - Match 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 3 - Item 4",
+    "region": "Round 1 - Match 3",
+    "category": [
+      "Round 1 - Match 3"
     ],
     "requires": []
   },
@@ -51,7 +99,7 @@
     "name": "Round 1 - Match 4 - Item 1",
     "region": "Round 1 - Match 4",
     "category": [
-      "Round 1"
+      "Round 1 - Match 4"
     ],
     "requires": []
   },
@@ -59,7 +107,23 @@
     "name": "Round 1 - Match 4 - Item 2",
     "region": "Round 1 - Match 4",
     "category": [
-      "Round 1"
+      "Round 1 - Match 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 4 - Item 3",
+    "region": "Round 1 - Match 4",
+    "category": [
+      "Round 1 - Match 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 4 - Item 4",
+    "region": "Round 1 - Match 4",
+    "category": [
+      "Round 1 - Match 4"
     ],
     "requires": []
   },
@@ -67,7 +131,7 @@
     "name": "Round 1 - Match 5 - Item 1",
     "region": "Round 1 - Match 5",
     "category": [
-      "Round 1"
+      "Round 1 - Match 5"
     ],
     "requires": []
   },
@@ -75,7 +139,23 @@
     "name": "Round 1 - Match 5 - Item 2",
     "region": "Round 1 - Match 5",
     "category": [
-      "Round 1"
+      "Round 1 - Match 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 5 - Item 3",
+    "region": "Round 1 - Match 5",
+    "category": [
+      "Round 1 - Match 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 5 - Item 4",
+    "region": "Round 1 - Match 5",
+    "category": [
+      "Round 1 - Match 5"
     ],
     "requires": []
   },
@@ -83,7 +163,7 @@
     "name": "Round 1 - Match 6 - Item 1",
     "region": "Round 1 - Match 6",
     "category": [
-      "Round 1"
+      "Round 1 - Match 6"
     ],
     "requires": []
   },
@@ -91,7 +171,23 @@
     "name": "Round 1 - Match 6 - Item 2",
     "region": "Round 1 - Match 6",
     "category": [
-      "Round 1"
+      "Round 1 - Match 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 6 - Item 3",
+    "region": "Round 1 - Match 6",
+    "category": [
+      "Round 1 - Match 6"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round 1 - Match 6 - Item 4",
+    "region": "Round 1 - Match 6",
+    "category": [
+      "Round 1 - Match 6"
     ],
     "requires": []
   },
@@ -99,7 +195,7 @@
     "name": "Quarterfinals - Match 1 - Item 1",
     "region": "Quarterfinals - Match 1",
     "category": [
-      "Quarterfinals"
+      "Quarterfinals - Match 1"
     ],
     "requires": []
   },
@@ -107,7 +203,24 @@
     "name": "Quarterfinals - Match 1 - Item 2",
     "region": "Quarterfinals - Match 1",
     "category": [
-      "Quarterfinals"
+      "Quarterfinals - Match 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 1 - Item 3",
+    "victory": false,
+    "region": "Quarterfinals - Match 1",
+    "category": [
+      "Quarterfinals - Match 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 1 - Item 4",
+    "region": "Quarterfinals - Match 1",
+    "category": [
+      "Quarterfinals - Match 1"
     ],
     "requires": []
   },
@@ -115,7 +228,7 @@
     "name": "Quarterfinals - Match 2 - Item 1",
     "region": "Quarterfinals - Match 2",
     "category": [
-      "Quarterfinals"
+      "Quarterfinals - Match 2"
     ],
     "requires": []
   },
@@ -123,7 +236,23 @@
     "name": "Quarterfinals - Match 2 - Item 2",
     "region": "Quarterfinals - Match 2",
     "category": [
-      "Quarterfinals"
+      "Quarterfinals - Match 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 2 - Item 3",
+    "region": "Quarterfinals - Match 2",
+    "category": [
+      "Quarterfinals - Match 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 2 - Item 4",
+    "region": "Quarterfinals - Match 2",
+    "category": [
+      "Quarterfinals - Match 2"
     ],
     "requires": []
   },
@@ -131,7 +260,7 @@
     "name": "Quarterfinals - Match 3 - Item 1",
     "region": "Quarterfinals - Match 3",
     "category": [
-      "Quarterfinals"
+      "Quarterfinals - Match 3"
     ],
     "requires": []
   },
@@ -139,7 +268,23 @@
     "name": "Quarterfinals - Match 3 - Item 2",
     "region": "Quarterfinals - Match 3",
     "category": [
-      "Quarterfinals"
+      "Quarterfinals - Match 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 3 - Item 3",
+    "region": "Quarterfinals - Match 3",
+    "category": [
+      "Quarterfinals - Match 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 3 - Item 4",
+    "region": "Quarterfinals - Match 3",
+    "category": [
+      "Quarterfinals - Match 3"
     ],
     "requires": []
   },
@@ -147,7 +292,7 @@
     "name": "Quarterfinals - Match 4 - Item 1",
     "region": "Quarterfinals - Match 4",
     "category": [
-      "Quarterfinals"
+      "Quarterfinals - Match 4"
     ],
     "requires": []
   },
@@ -155,7 +300,23 @@
     "name": "Quarterfinals - Match 4 - Item 2",
     "region": "Quarterfinals - Match 4",
     "category": [
-      "Quarterfinals"
+      "Quarterfinals - Match 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 4 - Item 3",
+    "region": "Quarterfinals - Match 4",
+    "category": [
+      "Quarterfinals - Match 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarterfinals - Match 4 - Item 4",
+    "region": "Quarterfinals - Match 4",
+    "category": [
+      "Quarterfinals - Match 4"
     ],
     "requires": []
   },
@@ -163,7 +324,7 @@
     "name": "Semifinals - Match 1 - Item 1",
     "region": "Semifinals - Match 1",
     "category": [
-      "Semifinals"
+      "Semifinals - Match 1"
     ],
     "requires": []
   },
@@ -171,7 +332,23 @@
     "name": "Semifinals - Match 1 - Item 2",
     "region": "Semifinals - Match 1",
     "category": [
-      "Semifinals"
+      "Semifinals - Match 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Semifinals - Match 1 - Item 3",
+    "region": "Semifinals - Match 1",
+    "category": [
+      "Semifinals - Match 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Semifinals - Match 1 - Item 4",
+    "region": "Semifinals - Match 1",
+    "category": [
+      "Semifinals - Match 1"
     ],
     "requires": []
   },
@@ -179,7 +356,7 @@
     "name": "Semifinals - Match 2 - Item 1",
     "region": "Semifinals - Match 2",
     "category": [
-      "Semifinals"
+      "Semifinals - Match 2"
     ],
     "requires": []
   },
@@ -187,7 +364,23 @@
     "name": "Semifinals - Match 2 - Item 2",
     "region": "Semifinals - Match 2",
     "category": [
-      "Semifinals"
+      "Semifinals - Match 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Semifinals - Match 2 - Item 3",
+    "region": "Semifinals - Match 2",
+    "category": [
+      "Semifinals - Match 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Semifinals - Match 2 - Item 4",
+    "region": "Semifinals - Match 2",
+    "category": [
+      "Semifinals - Match 2"
     ],
     "requires": []
   },
@@ -208,11 +401,27 @@
     "requires": []
   },
   {
-    "name": "Victory",
-    "victory": true,
+    "name": "Finals - Item 3",
     "region": "Finals",
     "category": [
       "Finals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Finals - Item 4",
+    "region": "Finals",
+    "category": [
+      "Finals"
+    ],
+    "requires": []
+  },
+  {
+    "victory": true,
+    "name": "Victory - Last Match Played",
+    "region": "Finals",
+    "category": [
+      "Win Condition"
     ],
     "requires": []
   }

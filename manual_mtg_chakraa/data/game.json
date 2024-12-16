@@ -6,9 +6,14 @@
   "starting_items": [
     {
       "item_categories": [
-        "Starter"
+        "Decks"
       ],
-      "random": 1
+      "random": 2
+    },
+    {
+      "items": [
+        "Round 1 - Match 1"
+      ]
     }
   ]
 }

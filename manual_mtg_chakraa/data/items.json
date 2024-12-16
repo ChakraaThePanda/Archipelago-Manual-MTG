@@ -108,5 +108,117 @@
       "Rounds"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pew Pew",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merely a Setback",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shitizz",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Touching Grass",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Adventure Time",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Discovering Your Defeat",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Animated Army",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deep Clue Sea",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Explorers of the Deep",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Food and Fellowship",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mutant Menace",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Riders of Rohan",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scrappy Survivors",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Veloci-ramp-tor",
+    "category": [
+      "Decks"
+    ],
+    "progression": true
   }
 ]
