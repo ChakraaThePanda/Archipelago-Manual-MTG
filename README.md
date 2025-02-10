@@ -1,7 +1,3 @@
 # Archipelago-Manual-MTG
- Files required to run the Manual Archipelago for MTG Tournament
-
-## Unflexibility
-Currently this apworld is pretty set in stone in the utility I have for it at this time, meaning that if I were to create a different number of brackets / games, I'd have to modify it in the source code of the APWorld.
-
-So unless you know what you are doing with it, this is pretty unusable outside of the scope I'm using it for.
+This AP World was made for my exclusive usage, as currently it only supports the MTG Commander Precon decks I own.
+It is setup to use the 14 decks I own in a Tournament Style format, unlocking each deck in order and each match.
