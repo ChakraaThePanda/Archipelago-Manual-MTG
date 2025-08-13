@@ -5,6 +5,7 @@ from BaseClasses import MultiWorld, CollectionState, Item
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
 from ..Locations import ManualLocation
+from .Options import LocationsPerMatch
 
 # Raw JSON data from the Manual apworld, respectively:
 #          data/game.json, data/items.json, data/locations.json, data/regions.json
@@ -15,7 +16,7 @@ from ..Data import game_table, item_table, location_table, region_table
 from ..Helpers import is_option_enabled, get_option_value, format_state_prog_items_key, ProgItemsCat
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
-import logging
+import logging, random, re
 
 ########################################################################################
 ## Order of method calls when the world generates:
@@ -42,16 +43,27 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
-    # Use this hook to remove locations from the world
-    locationNamesToRemove: list[str] = [] # List of location names
 
-    # Add your code here to calculate which locations to remove
+    locations_per_match = get_option_value(multiworld, player, "locations_per_match")
+    item_re = re.compile(r"\bItem\s+(\d+)\b")
 
+    # Iterate all regions for this player
     for region in multiworld.regions:
-        if region.player == player:
-            for location in list(region.locations):
-                if location.name in locationNamesToRemove:
-                    region.locations.remove(location)
+        if getattr(region, "player", None) != player:
+            continue
+
+        # Copy for safe removal while iterating
+        for location in list(region.locations):
+            m = item_re.search(location.name)
+            if not m:
+                continue  # ignore non-matching names
+            item_num = int(m.group(1))
+            if item_num > locations_per_match:
+                region.locations.remove(location)
+
+    # Clear caches if present (some MW versions need this)
+    if hasattr(multiworld, "clear_location_cache"):
+        multiworld.clear_location_cache()
 
 # This hook allows you to access the item names & counts before the items are created. Use this to increase/decrease the amount of a specific item in the pool
 # Valid item_config key/values:
@@ -70,17 +82,26 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    # Use this hook to remove items from the item pool
-    itemNamesToRemove: list[str] = [] # List of item names
 
-    # Add your code here to calculate which items to remove.
-    #
-    # Because multiple copies of an item can exist, you need to add an item name
-    # to the list multiple times if you want to remove multiple copies of it.
+    amountofdeckskept = 6
 
-    for itemName in itemNamesToRemove:
-        item = next(i for i in item_pool if i.name == itemName)
-        item_pool.remove(item)
+    # Identify all "Decks" items
+    decks_items = []
+    for item_check in list(item_pool):  # copy for safe iteration
+        item_table_element = next(i_t for i_t in item_table if i_t['name'] == item_check.name)
+        item_categories = item_table_element.get("category", [])
+        if "Decks" in item_categories:
+            decks_items.append(item_check)
+
+    # Randomly remove "Decks" items until only 6 remain after starting items are sent
+    if len(decks_items) > amountofdeckskept:
+        to_remove = len(decks_items) - amountofdeckskept
+        items_to_remove = random.sample(decks_items, to_remove)
+        for item in items_to_remove:
+            item_pool.remove(item)
+
+    # Adjust filler items
+    item_pool = world.adjust_filler_items(item_pool, [])
 
     return item_pool
 

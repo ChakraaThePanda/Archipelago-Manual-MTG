@@ -2,83 +2,45 @@
   "Round 1 - Match 1": {
     "starting": true,
     "connects_to": [
-      "Quarterfinals - Match 1"
+      "Semifinals - Match 1"
     ],
     "requires": "|Round 1 - Match 1| AND |@Decks:2|"
   },
   "Round 1 - Match 2": {
     "starting": true,
     "connects_to": [
-      "Quarterfinals - Match 2"
+      "Semifinals - Match 1"
     ],
     "requires": "|Round 1 - Match 2| AND |@Decks:4|"
   },
   "Round 1 - Match 3": {
     "starting": true,
     "connects_to": [
-      "Quarterfinals - Match 2"
+      "Semifinals - Match 2"
     ],
     "requires": "|Round 1 - Match 3| AND |@Decks:6|"
   },
   "Round 1 - Match 4": {
     "starting": true,
     "connects_to": [
-      "Quarterfinals - Match 3"
+      "Semifinals - Match 2"
     ],
     "requires": "|Round 1 - Match 4| AND |@Decks:8|"
-  },
-  "Round 1 - Match 5": {
-    "starting": true,
-    "connects_to": [
-      "Quarterfinals - Match 3"
-    ],
-    "requires": "|Round 1 - Match 5| AND |@Decks:10|"
-  },
-  "Round 1 - Match 6": {
-    "starting": true,
-    "connects_to": [
-      "Quarterfinals - Match 4"
-    ],
-    "requires": "|Round 1 - Match 6| AND |@Decks:12|"
-  },
-  "Quarterfinals - Match 1": {
-    "connects_to": [
-      "Semifinals - Match 1"
-    ],
-    "requires": "|Quarterfinals - Match 1| AND |Round 1 - Match 1| AND |@Decks:13|"
-  },
-  "Quarterfinals - Match 2": {
-    "connects_to": [
-      "Semifinals - Match 1"
-    ],
-    "requires": "|Quarterfinals - Match 2| AND |Round 1 - Match 2| AND |Round 1 - Match 3| AND |@Decks:6|"
-  },
-  "Quarterfinals - Match 3": {
-    "connects_to": [
-      "Semifinals - Match 2"
-    ],
-    "requires": "|Quarterfinals - Match 3| AND |Round 1 - Match 4| AND |Round 1 - Match 5| AND |@Decks:10|"
-  },
-  "Quarterfinals - Match 4": {
-    "connects_to": [
-      "Semifinals - Match 2"
-    ],
-    "requires": "|Quarterfinals - Match 4| AND |Round 1 - Match 6| AND |@Decks:14|"
   },
   "Semifinals - Match 1": {
     "connects_to": [
       "Finals"
     ],
-    "requires": "|Semifinals - Match 1| AND |Quarterfinals - Match 1| AND |Quarterfinals - Match 2| AND |Round 1 - Match 1| AND |Round 1 - Match 2| AND |Round 1 - Match 3| AND |@Decks:13|"
+    "requires": "|Semifinals - Match 1| AND |Round 1 - Match 1| AND |Round 1 - Match 2|"
   },
   "Semifinals - Match 2": {
     "connects_to": [
       "Finals"
     ],
-    "requires": "|Semifinals - Match 2| AND |Quarterfinals - Match 3| AND |Quarterfinals - Match 4| AND |Round 1 - Match 4| AND |Round 1 - Match 5| AND |Round 1 - Match 6| AND |@Decks:14|"
+    "requires": "|Semifinals - Match 2| AND |Round 1 - Match 3| AND |Round 1 - Match 4|"
   },
   "Finals": {
     "connects_to": [],
-    "requires": "|Finals| AND |Semifinals - Match 1| AND |Quarterfinals - Match 1| AND |Quarterfinals - Match 2| AND |Round 1 - Match 1| AND |Round 1 - Match 2| AND |Round 1 - Match 3| AND |Semifinals - Match 2| AND |Quarterfinals - Match 3| AND |Quarterfinals - Match 4| AND |Round 1 - Match 4| AND |Round 1 - Match 5| AND |Round 1 - Match 6| AND |@Decks:ALL|"
+    "requires": "|Finals| AND |Semifinals - Match 1|  AND |Round 1 - Match 1| AND |Round 1 - Match 2| AND |Semifinals - Match 2| AND |Round 1 - Match 3| AND |Round 1 - Match 4| AND |@Decks:ALL|"
   }
 }

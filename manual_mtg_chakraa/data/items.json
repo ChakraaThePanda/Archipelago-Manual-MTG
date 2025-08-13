@@ -37,56 +37,6 @@
   },
   {
     "count": 1,
-    "name": "Round 1 - Match 5",
-    "category": [
-      "Rounds",
-      "Starter"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Round 1 - Match 6",
-    "category": [
-      "Rounds",
-      "Starter"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Quarterfinals - Match 1",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Quarterfinals - Match 2",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Quarterfinals - Match 3",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Quarterfinals - Match 4",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Semifinals - Match 1",
     "category": [
       "Rounds"
@@ -111,7 +61,7 @@
   },
   {
     "count": 1,
-    "name": "Death Toll",
+    "name": "Abzan Armor",
     "category": [
       "Decks"
     ],
@@ -119,7 +69,7 @@
   },
   {
     "count": 1,
-    "name": "Endless Punishment",
+    "name": "Achromatic",
     "category": [
       "Decks"
     ],
@@ -127,7 +77,7 @@
   },
   {
     "count": 1,
-    "name": "Jump Scare!",
+    "name": "Endure. Survive. Live.",
     "category": [
       "Decks"
     ],
@@ -135,7 +85,7 @@
   },
   {
     "count": 1,
-    "name": "Miracle Worker",
+    "name": "Jelly-FISH!",
     "category": [
       "Decks"
     ],
@@ -143,7 +93,7 @@
   },
   {
     "count": 1,
-    "name": "Hail, Caesar",
+    "name": "Meow Meow!",
     "category": [
       "Decks"
     ],
@@ -151,7 +101,7 @@
   },
   {
     "count": 1,
-    "name": "Revenant Recon",
+    "name": "Poke! You Dead",
     "category": [
       "Decks"
     ],
@@ -159,7 +109,7 @@
   },
   {
     "count": 1,
-    "name": "Animated Army",
+    "name": "Pulverize the Archive",
     "category": [
       "Decks"
     ],
@@ -167,7 +117,7 @@
   },
   {
     "count": 1,
-    "name": "Deep Clue Sea",
+    "name": "Scions & Spellcraft",
     "category": [
       "Decks"
     ],
@@ -175,39 +125,7 @@
   },
   {
     "count": 1,
-    "name": "Explorers of the Deep",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Food and Fellowship",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mutant Menace",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Riders of Rohan",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Scrappy Survivors",
+    "name": "Slurp Slurp",
     "category": [
       "Decks"
     ],
