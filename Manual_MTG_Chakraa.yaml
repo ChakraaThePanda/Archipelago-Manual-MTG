@@ -32,7 +32,7 @@ description: Default Manual_MTG_Chakraa Template
 
 game: Manual_MTG_Chakraa
 requires:
-  version: 0.5.1 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.2 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_MTG_Chakraa:
   # Game Options
@@ -60,6 +60,10 @@ Manual_MTG_Chakraa:
     full: 50
     minimal: 0
 
+  plando_items:
+    # Generic items plando.
+    []
+
   # Item & Location Options
   local_items:
     # Forces these items to be in their native world.
@@ -71,6 +75,12 @@ Manual_MTG_Chakraa:
 
   start_inventory:
     # Start with these items.
+    {}
+
+  start_inventory_from_pool:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
     {}
 
   start_hints:
@@ -92,9 +102,3 @@ Manual_MTG_Chakraa:
   item_links:
     # Share part of your item pool with other players.
     []
-
-  start_inventory_from_pool:
-    # Start with these items and don't place them in the world.
-    # 
-    # The game decides what the replacement items will be.
-    {}
