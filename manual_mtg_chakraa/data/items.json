@@ -1,43 +1,7 @@
 [
   {
     "count": 1,
-    "name": "Round 1 - Match 1",
-    "category": [
-      "Rounds",
-      "Starter"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Round 1 - Match 2",
-    "category": [
-      "Rounds",
-      "Starter"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Round 1 - Match 3",
-    "category": [
-      "Rounds",
-      "Starter"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Round 1 - Match 4",
-    "category": [
-      "Rounds",
-      "Starter"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Semifinals - Match 1",
+    "name": "Quarterfinals - Match 01",
     "category": [
       "Rounds"
     ],
@@ -45,7 +9,39 @@
   },
   {
     "count": 1,
-    "name": "Semifinals - Match 2",
+    "name": "Quarterfinals - Match 02",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quarterfinals - Match 03",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quarterfinals - Match 04",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Semifinals - Match 01",
+    "category": [
+      "Rounds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Semifinals - Match 02",
     "category": [
       "Rounds"
     ],
@@ -69,7 +65,7 @@
   },
   {
     "count": 1,
-    "name": "Achromatic",
+    "name": "Feuille Blanche 8 1/2 x 11",
     "category": [
       "Decks"
     ],
@@ -101,7 +97,7 @@
   },
   {
     "count": 1,
-    "name": "Poke! You Dead",
+    "name": "Caw Caw!",
     "category": [
       "Decks"
     ],
@@ -109,7 +105,7 @@
   },
   {
     "count": 1,
-    "name": "Pulverize the Archive",
+    "name": "Mille Mill",
     "category": [
       "Decks"
     ],

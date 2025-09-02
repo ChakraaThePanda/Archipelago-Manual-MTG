@@ -32,10 +32,12 @@ description: Default Manual_MTG_Chakraa Template
 
 game: Manual_MTG_Chakraa
 requires:
-  version: 0.6.2 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.3 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_MTG_Chakraa:
-  # Game Options
+  ################
+  # Game Options #
+  ################
   progression_balancing:
     # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
     # 
@@ -60,10 +62,6 @@ Manual_MTG_Chakraa:
     full: 50
     minimal: 0
 
-  plando_items:
-    # Generic items plando.
-    []
-
   locations_per_match:
     # Select the amount of locations each match has
     #
@@ -75,7 +73,9 @@ Manual_MTG_Chakraa:
     random-low: 0
     random-high: 0
 
-  # Item & Location Options
+  ###########################
+  # Item & Location Options #
+  ###########################
   local_items:
     # Forces these items to be in their native world.
     []
@@ -112,4 +112,8 @@ Manual_MTG_Chakraa:
 
   item_links:
     # Share part of your item pool with other players.
+    []
+
+  plando_items:
+    # Generic items plando.
     []

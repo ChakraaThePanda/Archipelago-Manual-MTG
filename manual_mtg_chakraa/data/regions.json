@@ -1,46 +1,46 @@
 {
-  "Round 1 - Match 1": {
+  "Quarterfinals - Match 01": {
     "starting": true,
     "connects_to": [
-      "Semifinals - Match 1"
+      "Semifinals - Match 01"
     ],
-    "requires": "|Round 1 - Match 1| AND |@Decks:2|"
+    "requires": "|Quarterfinals - Match 01| AND |@Decks:2|"
   },
-  "Round 1 - Match 2": {
+  "Quarterfinals - Match 02": {
     "starting": true,
     "connects_to": [
-      "Semifinals - Match 1"
+      "Semifinals - Match 01"
     ],
-    "requires": "|Round 1 - Match 2| AND |@Decks:4|"
+    "requires": "|Quarterfinals - Match 02| AND |@Decks:4|"
   },
-  "Round 1 - Match 3": {
+  "Quarterfinals - Match 03": {
     "starting": true,
     "connects_to": [
-      "Semifinals - Match 2"
+      "Semifinals - Match 02"
     ],
-    "requires": "|Round 1 - Match 3| AND |@Decks:6|"
+    "requires": "|Quarterfinals - Match 03| AND |@Decks:6|"
   },
-  "Round 1 - Match 4": {
+  "Quarterfinals - Match 04": {
     "starting": true,
     "connects_to": [
-      "Semifinals - Match 2"
+      "Semifinals - Match 02"
     ],
-    "requires": "|Round 1 - Match 4| AND |@Decks:8|"
+    "requires": "|Quarterfinals - Match 04| AND |@Decks:8|"
   },
-  "Semifinals - Match 1": {
+  "Semifinals - Match 01": {
     "connects_to": [
       "Finals"
     ],
-    "requires": "|Semifinals - Match 1| AND |Round 1 - Match 1| AND |Round 1 - Match 2|"
+    "requires": "|Semifinals - Match 01| AND |Quarterfinals - Match 01| AND |Quarterfinals - Match 02| AND |@Decks:4|"
   },
-  "Semifinals - Match 2": {
+  "Semifinals - Match 02": {
     "connects_to": [
       "Finals"
     ],
-    "requires": "|Semifinals - Match 2| AND |Round 1 - Match 3| AND |Round 1 - Match 4|"
+    "requires": "|Semifinals - Match 02| AND |Quarterfinals - Match 03| AND |Quarterfinals - Match 04| AND |@Decks:8|"
   },
   "Finals": {
     "connects_to": [],
-    "requires": "|Finals| AND |Semifinals - Match 1|  AND |Round 1 - Match 1| AND |Round 1 - Match 2| AND |Semifinals - Match 2| AND |Round 1 - Match 3| AND |Round 1 - Match 4| AND |@Decks:ALL|"
+    "requires": "|Finals| AND |Semifinals - Match 01|  AND |Quarterfinals - Match 01| AND |Quarterfinals - Match 02| AND |Semifinals - Match 02| AND |Quarterfinals - Match 03| AND |Quarterfinals - Match 04| AND |@Decks:ALL|"
   }
 }
