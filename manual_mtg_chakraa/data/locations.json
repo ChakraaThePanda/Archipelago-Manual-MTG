@@ -1,571 +1,574 @@
-[
-  {
-    "name": "Quarterfinals - Match 01 - Item 01",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 01 - Item 02",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 01 - Item 03",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 01 - Item 04",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 01 - Item 05",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 01 - Item 06",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 01 - Item 07",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 01 - Item 08",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 01 - Item 09",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 01 - Item 10",
-    "region": "Quarterfinals - Match 01",
-    "category": [
-      "Quarterfinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 01",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 02",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 03",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 04",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 05",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 06",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 07",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 08",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 09",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 02 - Item 10",
-    "region": "Quarterfinals - Match 02",
-    "category": [
-      "Quarterfinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 01",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 02",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 03",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 04",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 05",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 06",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 07",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 08",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 09",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 03 - Item 10",
-    "region": "Quarterfinals - Match 03",
-    "category": [
-      "Quarterfinals - Match 03"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 01",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 02",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 03",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 04",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 05",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 06",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 07",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 08",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 09",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Quarterfinals - Match 04 - Item 10",
-    "region": "Quarterfinals - Match 04",
-    "category": [
-      "Quarterfinals - Match 04"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 01",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 02",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 03",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 04",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 05",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 06",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 07",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 08",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 09",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 01 - Item 10",
-    "region": "Semifinals - Match 01",
-    "category": [
-      "Semifinals - Match 01"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 01",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 02",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 03",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 04",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 05",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 06",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 07",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 08",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 09",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Semifinals - Match 02 - Item 10",
-    "region": "Semifinals - Match 02",
-    "category": [
-      "Semifinals - Match 02"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 01",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 02",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 03",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 04",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 05",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 06",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 07",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 08",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 09",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Finals - Item 10",
-    "region": "Finals",
-    "category": [
-      "Finals"
-    ],
-    "requires": []
-  },
-  {
-    "victory": true,
-    "name": "Victory - Last Match Played",
-    "region": "Finals",
-    "category": [
-      "Win Condition"
-    ],
-    "requires": []
-  }
-]
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Quarterfinals - Match 01 - Item 01",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 01 - Item 02",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 01 - Item 03",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 01 - Item 04",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 01 - Item 05",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 01 - Item 06",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 01 - Item 07",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 01 - Item 08",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 01 - Item 09",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 01 - Item 10",
+      "region": "Quarterfinals - Match 01",
+      "category": [
+        "Quarterfinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 01",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 02",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 03",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 04",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 05",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 06",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 07",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 08",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 09",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 02 - Item 10",
+      "region": "Quarterfinals - Match 02",
+      "category": [
+        "Quarterfinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 01",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 02",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 03",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 04",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 05",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 06",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 07",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 08",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 09",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 03 - Item 10",
+      "region": "Quarterfinals - Match 03",
+      "category": [
+        "Quarterfinals - Match 03"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 01",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 02",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 03",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 04",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 05",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 06",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 07",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 08",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 09",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quarterfinals - Match 04 - Item 10",
+      "region": "Quarterfinals - Match 04",
+      "category": [
+        "Quarterfinals - Match 04"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 01",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 02",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 03",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 04",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 05",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 06",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 07",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 08",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 09",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 01 - Item 10",
+      "region": "Semifinals - Match 01",
+      "category": [
+        "Semifinals - Match 01"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 01",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 02",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 03",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 04",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 05",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 06",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 07",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 08",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 09",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Semifinals - Match 02 - Item 10",
+      "region": "Semifinals - Match 02",
+      "category": [
+        "Semifinals - Match 02"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 01",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 02",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 03",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 04",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 05",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 06",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 07",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 08",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 09",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finals - Item 10",
+      "region": "Finals",
+      "category": [
+        "Finals"
+      ],
+      "requires": ""
+    },
+    {
+      "victory": true,
+      "name": "Victory - Last Match Played",
+      "region": "Finals",
+      "category": [
+        "Win Condition"
+      ],
+      "requires": ""
+    }
+  ]
+}

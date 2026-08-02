@@ -1,138 +1,133 @@
-[
-  {
-    "count": 1,
-    "name": "Quarterfinals - Match 01",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Quarterfinals - Match 02",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Quarterfinals - Match 03",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Quarterfinals - Match 04",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Semifinals - Match 01",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Semifinals - Match 02",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Finals",
-    "category": [
-      "Rounds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Abzan Armor",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Feuille Blanche 8 1/2 x 11",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Endure. Survive. Live.",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Jelly-FISH!",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Meow Meow!",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Caw Caw!",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mille Mill",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Scions & Spellcraft",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Slurp Slurp",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Veloci-ramp-tor",
-    "category": [
-      "Decks"
-    ],
-    "progression": true
-  }
-]
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Quarterfinals - Match 01",
+      "category": [
+        "Rounds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Quarterfinals - Match 02",
+      "category": [
+        "Rounds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Quarterfinals - Match 03",
+      "category": [
+        "Rounds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Quarterfinals - Match 04",
+      "category": [
+        "Rounds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Semifinals - Match 01",
+      "category": [
+        "Rounds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Semifinals - Match 02",
+      "category": [
+        "Rounds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Finals",
+      "category": [
+        "Rounds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Free Companies",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Guess Who's Back?",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Peskipiksi Pesternomi",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rat ta ta ta ta ta!",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Meow Meow!",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Remember That We Once Lived",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aloy vs the Machines",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Go to Hell!",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "BOY !",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    }
+  ]
+}
