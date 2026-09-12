@@ -59,14 +59,6 @@
     },
     {
       "count": 1,
-      "name": "Free Companies",
-      "category": [
-        "Decks"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
       "name": "Guess Who's Back?",
       "category": [
         "Decks"
@@ -76,14 +68,6 @@
     {
       "count": 1,
       "name": "Peskipiksi Pesternomi",
-      "category": [
-        "Decks"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rat ta ta ta ta ta!",
       "category": [
         "Decks"
       ],
@@ -123,7 +107,31 @@
     },
     {
       "count": 1,
-      "name": "BOY !",
+      "name": "BOY!",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Will Ferrell",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Michael Jackson",
+      "category": [
+        "Decks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Counter Blitz",
       "category": [
         "Decks"
       ],
